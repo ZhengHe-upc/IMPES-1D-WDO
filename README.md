@@ -12,3 +12,4 @@
   1. IMPES_1D.m is the main program；
   2. solve_tridiagonal_matrix.m is a function for solving tridiagonal matrix equations using the catch-up method;
   3. Report.pdf is a Report based on questions and results.
+  4. theory.pdf is the principle used for the entire programming, and also contains the derivation of the necessary formulas 
